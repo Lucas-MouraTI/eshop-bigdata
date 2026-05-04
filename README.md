@@ -64,6 +64,26 @@ A aplicação simula operações reais de um e-commerce, como:
 
 ---
 
+## Demonstração
+
+### Dashboard
+
+![Dashboard](exemplos/dashboard.png)
+
+### Cadastro de Produtos
+
+![Cadastro de Produtos](exemplos/cadastro-produto.png)
+
+### Criar Pedido
+
+![Criar Pedido](exemplos/criar-pedido.png)
+
+### Ver Pedidos
+
+![Ver Pedidos](exemplos/ver-pedidos.png)
+
+---
+
 ## Estrutura do Projeto
 
 ```text
@@ -81,8 +101,8 @@ projeto/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Lucas-MouraTI/eshop-bigdata.git
+cd eshop-bigdata
 ```
 
 ---
@@ -119,8 +139,6 @@ A aplicação permite:
 * Manipulação de dados (CRUD)
 * Visualização em tempo real
 * Análise de dados via dashboard
-
-As imagens de demonstração devem ser adicionadas na pasta "exemplos".
 
 ---
 
